@@ -1,0 +1,16 @@
+export const UNIT = [
+  "KG",
+  "PK",
+  "PT",
+  "PR",
+  "NO",
+  "MT",
+  "LT",
+  "ST",
+  "GR",
+  "RO",
+  "BG",
+  "RL",
+  "ML",
+  "TI",
+]

@@ -1,0 +1,6 @@
+.env
+node_modules
+google.json
+.vscode
+.DS_Store
+google.json
